@@ -26,5 +26,6 @@ What the project is not :
 
 Original programmers : 
 
--> Yann BOYER
+-> Yann BOYER(https://github.com/yann-boyer)
+
 -> BinaryEpsi(https://github.com/BinaryEpsi)
